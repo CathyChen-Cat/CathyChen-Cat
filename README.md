@@ -30,16 +30,21 @@
 
 ### Parts of Languages / Tools I've used: 
 
-<code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/database.svg"> Database</code>
 <code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/android.svg"> Android</code>
 <code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/css.svg"> CSS</code>
+<code><img height="20" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/csharp.svg"> C#</code>
+<code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/database.svg"> Database</code>
 <code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/html.svg"> HTML5</code>
 <code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/java.svg"> Java</code>
 <code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/javascript.svg"> Javascript</code><br />
 <code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/jupyter.svg"> Jupyter</code>
+<code><img height="20" src="https://github.com/manumanoj0010/manumanoj0010/blob/main/images/mysql.png"> MySql</code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"> OpenCV</code>
 <code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/php.svg"> PHP</code>
 <code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg"> Python</code>
+<code><img height="20" src="https://github.com/manumanoj0010/manumanoj0010/blob/main/images/unity.png"> Unity</code>
 <code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/visualstudio.svg"> Visual Studio</code>
-<code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/gitlab.svg"> Github | Gitlab</code>
+
+
 
 
