@@ -16,7 +16,7 @@
 &nbsp;&nbsp;  :small_blue_diamond: Passion for programming in any language. <br />
 &nbsp;&nbsp;  :small_blue_diamond: I love gaming on my phone or on Nintendo Switch. <br />
 &nbsp;&nbsp;  :small_blue_diamond: Music is in my life too! :microphone: :musical_keyboard: :violin: <br />
-&nbsp;&nbsp;  :small_blue_diamond: I love travelling around the world, meeting different people and culture! :world_map: :earth_americas: :earth_asia:
+&nbsp;&nbsp;  :small_blue_diamond: I love travelling, meeting different people and culture! :world_map: :earth_americas: :earth_asia:
 <br /><br />
 
 📫 How to reach me: &nbsp;
