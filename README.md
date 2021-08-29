@@ -51,4 +51,23 @@
 
 ### My First Android App
 
+<br />
+
+<p>This is my first Android App created in Android Studio using Java.</p>
+
+<br />
+
 [![First Android App](https://github.com/CathyChen-Cat/CathyChen-Cat/blob/main/FirstApp.png)](https://www.youtube.com/watch?v=FIGpcI4MEtw)
+
+<br /><br />
+
+### My First Dashboard
+
+<br />
+
+<p>Data cleansing in SQL server management studio using SQL and T-SQL. Dashboard generated
+and deployed through SQL reporting services by using Visual Studio.</p>
+
+<br />
+
+[![First Dashboard](https://github.com/CathyChen-Cat/CathyChen-Cat/blob/main/BIDash.png)](https://www.youtube.com/watch?v=NZHE38KVdW4)
