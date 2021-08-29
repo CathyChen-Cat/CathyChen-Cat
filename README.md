@@ -12,7 +12,7 @@
 :eyes: I am looking for an IT related Summer Internship based in Wellington Region. I would love to learn more on programming as a Developer.
 <br /><br /> 
 
-### :sparkles: Hobbies | Intrests <br />
+## :sparkles: Hobbies | Intrests <br />
 &nbsp;&nbsp;  :small_blue_diamond: Passion for programming in any language. <br />
 &nbsp;&nbsp;  :small_blue_diamond: I love gaming on my phone (Genshin Impact) or on Nintendo Switch. <br />
 &nbsp;&nbsp;  :small_blue_diamond: Music is in my life too! :microphone: :musical_keyboard: :violin: <br />
@@ -28,7 +28,7 @@
 <br /><br />
 </p>
 
-### Parts of Languages / Tools I've used: 
+## Parts of Languages / Tools I've used: 
 
 <code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/android.svg"> Android</code>
 <code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/css.svg"> CSS</code>
@@ -45,10 +45,10 @@
 <code><img height="20" src="https://github.com/manumanoj0010/manumanoj0010/blob/main/images/unity.png"> Unity</code>
 <code><img height="20" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/visualstudio.svg"> Visual Studio</code>
 
+<br /><br />
 
+## Projects I've done:
 
-### Projects I've done:
-
-## My First Android App
+### My First Android App
 
 [![First Android App](https://github.com/CathyChen-Cat/CathyChen-Cat/blob/main/FirstApp.png)](https://www.youtube.com/watch?v=FIGpcI4MEtw)
