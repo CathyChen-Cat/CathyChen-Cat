@@ -51,6 +51,6 @@
 
 ## My First Android App
 
-<a href="https://www.youtube.com/watch?v=FIGpcI4MEtw&t=8s
+<a href="https://www.youtube.com/watch?v=FIGpcI4MEtw
 " target="_blank"><img src="https://github.com/CathyChen-Cat/CathyChen-Cat/blob/main/FirstApp.png" 
 alt="First Android App" width="240" height="180" border="10" /></a>
