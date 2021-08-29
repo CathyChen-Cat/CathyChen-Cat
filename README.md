@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/CathyChen-Cat/CathyChen-Cat/blob/main/genshin-impact-icegif-3.gif" alt="icegif.com" width="320" />
 
 <p>
-:woman: Currently a final year Bachelor of Information Technology student at Whitireia New Zealand, majored in Software Development.
+:woman: Currently a final year Bachelor of Information Technology student at Whitireia New Zealand, majoring in Software Development.
 <br /><br />
 
 :computer: Currently working as a team for a real-world client's project. Business analysis for redesigning an application with user-friendly, cost and time efficient for our client.
